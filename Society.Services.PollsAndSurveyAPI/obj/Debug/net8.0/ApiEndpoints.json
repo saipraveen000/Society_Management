@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Society.Services.PollsAndSurveyAPI.Controllers.PollController",
+    "Method": "CreatePoll",
+    "RelativePath": "api/Poll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Society.Services.PollsAndSurveyAPI.Models.Dto.CreatePollDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Society.Services.PollsAndSurveyAPI.Controllers.PollController",
+    "Method": "GetAllPolls",
+    "RelativePath": "api/Poll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Society.Services.PollsAndSurveyAPI.Controllers.PollController",
+    "Method": "GetResults",
+    "RelativePath": "api/Poll/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Society.Services.PollsAndSurveyAPI.Controllers.PollController",
+    "Method": "Vote",
+    "RelativePath": "api/Poll/vote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Society.Services.PollsAndSurveyAPI.Models.Dto.VoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

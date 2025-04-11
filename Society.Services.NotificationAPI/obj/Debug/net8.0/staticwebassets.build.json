@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dW6Do8VWoAWI6LWE0Aube+pfx1j8w03JSzSUANy4p9c=",
+  "Source": "Society.Services.NotificationAPI",
+  "BasePath": "_content/Society.Services.NotificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

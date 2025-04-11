@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "urKrg8WbWm49pXT4ByRG48POWHbME1p1e7srzobOAUw=",
+  "Source": "Society.Services.PollsAndSurveyAPI",
+  "BasePath": "_content/Society.Services.PollsAndSurveyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

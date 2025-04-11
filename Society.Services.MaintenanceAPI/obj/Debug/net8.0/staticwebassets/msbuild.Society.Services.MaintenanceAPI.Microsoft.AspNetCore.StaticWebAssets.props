@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Society.Services.MaintenanceAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Society.Services.MaintenanceAPI</BasePath>
+      <RelativePath>uploads/6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bmn67ckdge</Fingerprint>
+      <Integrity>E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

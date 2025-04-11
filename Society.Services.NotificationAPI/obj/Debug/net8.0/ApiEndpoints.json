@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Society.Services.NotificationAPI.Controllers.AlertsController",
+    "Method": "GetLatestAlerts",
+    "RelativePath": "api/Alerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Society.Services.NotificationAPI.Controllers.AlertsController",
+    "Method": "CreateAlert",
+    "RelativePath": "api/Alerts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Society.Services.NotificationAPI.Models.Dto.EmergencyAlertDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Society.Services.NotificationAPI.Controllers.AlertsController",
+    "Method": "DeleteAlert",
+    "RelativePath": "api/Alerts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

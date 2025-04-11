@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "++YejgqOVwuCeRoSbSqYEds8RaDp8TnJoNctJ7izGEs=",
+  "Source": "Society.Services.MaintenanceAPI",
+  "BasePath": "_content/Society.Services.MaintenanceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Society.Services.MaintenanceAPI\\wwwroot",
+      "Source": "Society.Services.MaintenanceAPI",
+      "ContentRoot": "D:\\visual studio\\Society Management System\\Society.Services.MaintenanceAPI\\wwwroot\\",
+      "BasePath": "_content/Society.Services.MaintenanceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\visual studio\\Society Management System\\Society.Services.MaintenanceAPI\\wwwroot\\uploads\\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg",
+      "SourceId": "Society.Services.MaintenanceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visual studio\\Society Management System\\Society.Services.MaintenanceAPI\\wwwroot\\",
+      "BasePath": "_content/Society.Services.MaintenanceAPI",
+      "RelativePath": "uploads/6280afd9-ea0d-4fb7-9c06-ada1cd719f8b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bmn67ckdge",
+      "Integrity": "E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.bmn67ckdge.jpg",
+      "AssetFile": "D:\\visual studio\\Society Management System\\Society.Services.MaintenanceAPI\\wwwroot\\uploads\\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 09:14:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmn67ckdge"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg",
+      "AssetFile": "D:\\visual studio\\Society Management System\\Society.Services.MaintenanceAPI\\wwwroot\\uploads\\6280afd9-ea0d-4fb7-9c06-ada1cd719f8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 09:14:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1Rm9Jav+oQWKViwQLt62lYXmV7lZUhEslOeeWUjplI="
+        }
+      ]
+    }
+  ]
+}
